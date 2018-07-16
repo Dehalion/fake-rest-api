@@ -1,2 +1,2 @@
 # fake-rest-api
-Fake REST API
+Fake REST API for usage with https://my-json-server.typicode.com/
